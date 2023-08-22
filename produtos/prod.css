@@ -1,0 +1,18 @@
+.img-fluid {
+  max-width: 70%;
+  margin: 30px;
+}
+
+.content {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.title {
+  font-family: "Montserrat 700", sans-serif;
+}
+
+.paragraph {
+  font-family: "Lato 400", sans-serif;
+}
